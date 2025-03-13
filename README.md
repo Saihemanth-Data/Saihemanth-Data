@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Saihemanth Bathula  
 
-<!--
-**Saihemanth-Data/Saihemanth-Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 *Aspiring Data Engineer | SQL | Power BI | Python*  
+💡 Passionate about *data-driven decision-making*  
+📊 Love working with *analytics, visualization, and automation*  
 
-Here are some ideas to get you started:
+## 📂 My Data Projects  
+🔹 *SQL Data Projects* - Complex queries, optimization, and database design  
+🔹 *Power BI Dashboards* - Interactive dashboards and business insights  
+🔹 *Python Data Engineering* - ETL pipelines, automation, and data processing  
+🔹 *Portfolio Projects* - End-to-end projects mimicking real-world experience  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-link)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](your-github-link)
